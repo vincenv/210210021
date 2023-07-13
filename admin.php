@@ -93,9 +93,6 @@ include 'config.php';
       <div class="small-12">
         <center><p><input style="clear:both;" type="submit" class="button" value="Update"></p></center>
         </form>
-        <footer style="margin-top:10px;">
-           <p style="text-align:center; font-size:0.8em;">&copy; BOLT Sports Shop. All Rights Reserved.</p>
-        </footer>
 
       </div>
     </div>

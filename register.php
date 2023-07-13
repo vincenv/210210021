@@ -131,9 +131,7 @@ if (isset($_SESSION["username"])) {header ("location:index.php");}
     <div class="row" style="margin-top:10px;">
       <div class="small-12">
 
-        <footer>
-           <p style="text-align:center; font-size:0.8em;">&copy; BOLT Sports Shop. All Rights Reserved.</p>
-        </footer>
+
 
       </div>
     </div>

@@ -102,9 +102,7 @@ include 'config.php';
 
 
 
-        <footer style="margin-top:10px;">
-           <p style="text-align:center; font-size:0.8em;clear:both;">&copy; BOLT Sports Shop. All Rights Reserved.</p>
-        </footer>
+
 
       </div>
     </div>

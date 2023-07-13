@@ -54,14 +54,9 @@ if(session_id() == '' || !isset($_SESSION)){session_start();}
 
     <div class="row" style="margin-top:30px;">
       <div class="small-12">
-        <p>BOLT Sports Shop is a project on E-Commerce Website. All products listed are fake. This project just gives a preview to what a real world implementation of E-Commerce Website will look like. Well if you do like the website then visit
-        <a href="http://www.techbarrack.com" target="_blank" rel="noopener noreferrer" title="Tech Barrack Solutions">Tech Barrack Solutions</a>.</p>
+        <p>BOLT Sports Shop is a project on E-Commerce Website. All products listed are dummy. This project just for college study assignments.
 
         <p>Why BOLT? I am a big fan of Usain Bolt. He is diligent and tries to surpass his previous achievements. And lastly, it was an instant thought. So went for it.</p>
-
-        <footer>
-           <p style="text-align:center; font-size:0.8em;">&copy; BOLT Sports Shop. All Rights Reserved.</p>
-        </footer>
 
       </div>
     </div>
